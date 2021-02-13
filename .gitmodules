@@ -2,3 +2,7 @@
 	path = jiangVin
 	url = https://github.com/vjiang10/Graphics_01_Making-A-Line.git
 	branch = master
+[submodule "ahmedTah"]
+	path = ahmedTah
+	url = https://github.com/TahsinAhmed13/01_line.git
+	branch = main
