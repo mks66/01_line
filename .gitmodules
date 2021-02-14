@@ -6,3 +6,7 @@
 	path = ahmedTah
 	url = https://github.com/TahsinAhmed13/01_line.git
 	branch = main
+[submodule "hamzahMoh"]
+	path = hamzahMoh
+	url = https://github.com/ForestDweller014/01_line
+	branch = main
