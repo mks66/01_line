@@ -10,3 +10,7 @@
 	path = hamzahMoh
 	url = https://github.com/ForestDweller014/01_line
 	branch = main
+[submodule "siuVic"]
+	path = siuVic
+	url = https://github.com/vs2961/01_line_vs.git
+	branch = main
