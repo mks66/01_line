@@ -18,3 +18,7 @@
 	path = ku-benjetJer
 	url = https://github.com/jku20/mk66_graphics.git
 	branch = line
+[submodule "nathMic"]
+	path = nathMic
+	url = https://github.com/Michael-Nath/mnath_line.git
+	branch = main
