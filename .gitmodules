@@ -14,3 +14,7 @@
 	path = siuVic
 	url = https://github.com/vs2961/01_line_vs.git
 	branch = main
+[submodule "ku-benjetJer"]
+	path = ku-benjetJer
+	url = https://github.com/jku20/mk66_graphics.git
+	branch = line
