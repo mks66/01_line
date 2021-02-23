@@ -30,3 +30,7 @@
 	path = weiIva
 	url = git@github.com:iwei20/Bresenham
 	branch = main
+[submodule "baiJia"]
+	path = baiJia
+	url = https://github.com/JJBai2003/01_line
+	branch = main
