@@ -22,3 +22,7 @@
 	path = nathMic
 	url = https://github.com/Michael-Nath/mnath_line.git
 	branch = main
+[submodule "yeGen"]
+	path = yeGen
+	url = https://github.com/Gene1212/01_line
+	branch = master
