@@ -26,3 +26,7 @@
 	path = yeGen
 	url = https://github.com/Gene1212/01_line
 	branch = master
+[submodule "weiIva"]
+	path = weiIva
+	url = git@github.com:iwei20/Bresenham
+	branch = main
