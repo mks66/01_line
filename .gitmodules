@@ -30,3 +30,7 @@
 	path = weiIva
 	url = git@github.com:iwei20/Bresenham
 	branch = main
+[submodule "zhangAnn"]
+	path = zhangAnn
+	url = https://github.com/annazhang03/line.git
+	branch = master
