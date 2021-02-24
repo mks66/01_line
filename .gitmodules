@@ -46,3 +46,7 @@
 	path = yeCul
 	url = https://github.com/CullenLYe/work01_line.git
 	branch = main
+[submodule "leeSte"]
+	path = leeSte
+	url = https://github.com/kevidgel/01_line
+	branch = main
