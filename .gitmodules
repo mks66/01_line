@@ -42,3 +42,7 @@
 	path = liSun
 	url = https://github.com/sunnyli13/graphics01.git
 	branch = main
+[submodule "yeCul"]
+	path = yeCul
+	url = https://github.com/CullenLYe/work01_line.git
+	branch = main
