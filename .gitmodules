@@ -62,3 +62,7 @@
 	path = hirotaEis
 	url = https://github.com/ei5uke/01_line_mks.git
 	branch = main
+[submodule "zhangJin"]
+	path = zhangJin
+	url = https://github.com/Jinzxc/01_line_J.git
+	branch = main
