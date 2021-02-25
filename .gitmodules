@@ -82,3 +82,7 @@
 	path = cantarellaGra
 	url = https://github.com/grcecant/line.git
 	branch = main
+[submodule "linRay"]
+	path = linRay
+	url = https://github.com/RayLin10/line.git
+	branch = master
