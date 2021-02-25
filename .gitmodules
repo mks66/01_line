@@ -74,3 +74,7 @@
 	path = miahFah
 	url = https://github.com/fmiah10/line.git
 	branch = main
+[submodule "zhengCin"]
+	path = zhengCin
+	url = https://github.com/czheng10/01line.git
+	branch = main
