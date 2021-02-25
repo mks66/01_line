@@ -86,3 +86,7 @@
 	path = linRay
 	url = https://github.com/RayLin10/line.git
 	branch = master
+[submodule "yanVic"]
+	path = yanVic
+	url = https://github.com/vkyan10/001_line.git
+	branch = master
