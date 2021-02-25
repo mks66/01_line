@@ -66,3 +66,7 @@
 	path = zhangJin
 	url = https://github.com/Jinzxc/01_line_J.git
 	branch = main
+[submodule "huLuc"]
+	path = huLuc
+	url = https://github.com/lhu10/graphics_01_line.git
+	branch = main
