@@ -109,3 +109,7 @@
 	path = huMic
 	url = https://github.com/GuessHuIAm/g1_line
 	branch = master
+[submodule "yuNeh"]
+	path = yuNeh
+	url = https://github.com/Nyu10/01_Line
+	branch = main
