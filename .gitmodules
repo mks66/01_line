@@ -50,3 +50,7 @@
 	path = leeSte
 	url = https://github.com/kevidgel/01_line
 	branch = main
+[submodule "leeLuc"]
+	path = leeLuc
+	url = https://github.com/Lucas-Lee11/01_lines
+	branch = main
