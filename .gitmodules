@@ -58,3 +58,7 @@
 	path = vostrikovVla
 	url = https://github.com/villinoid/00_gfx.git
 	branch = main
+[submodule "hirotaEis"]
+	path = hirotaEis
+	url = https://github.com/ei5uke/01_line_mks.git
+	branch = main
