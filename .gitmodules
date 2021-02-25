@@ -98,3 +98,7 @@
 	path = liZhi
 	url = https://github.com/zlicompgraphics/01_compgraphics.git
 	branch = main
+[submodule "zhangAle"]
+	path = zhangAle
+	url = https://github.com/Kappachino-Latte/01_line_alex
+	branch = master
