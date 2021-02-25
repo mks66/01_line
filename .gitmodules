@@ -105,4 +105,7 @@
 [submodule "leeTri"]
 	path = leeTri
 	url = https://github.com/TristanLee187/01_line.git
+[submodule "huMic"]
+	path = huMic
+	url = https://github.com/GuessHuIAm/g1_line
 	branch = master
