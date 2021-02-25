@@ -121,3 +121,7 @@
 	path = jooEth
 	url = https://github.com/ejoo10/line.git
 	branch = main
+[submodule "farrellMax"]
+	path = farrellMax
+	url = https://github.com/maxffarrell/01line
+	branch = main
