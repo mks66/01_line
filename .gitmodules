@@ -70,3 +70,7 @@
 	path = huLuc
 	url = https://github.com/lhu10/graphics_01_line.git
 	branch = main
+[submodule "miahFah"]
+	path = miahFah
+	url = https://github.com/fmiah10/line.git
+	branch = main
