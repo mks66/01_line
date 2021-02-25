@@ -133,3 +133,7 @@
 	path = osipovDon
 	url = https://github.com/Don-Osipov/lineAlgo
 	branch = main
+[submodule "wuYil"]
+	path = wuYil
+	url = https://github.com/YLW-105/01_line.git
+	branch = main
