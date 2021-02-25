@@ -113,3 +113,7 @@
 	path = yuNeh
 	url = https://github.com/Nyu10/01_Line
 	branch = main
+[submodule "misquittaKri"]
+	path = misquittaKri
+	url = https://github.com/Kristoff1318/Graphics_2.git
+	branch = main
