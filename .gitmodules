@@ -54,3 +54,7 @@
 	path = leeLuc
 	url = https://github.com/Lucas-Lee11/01_lines
 	branch = main
+[submodule "vostrikovVla"]
+	path = vostrikovVla
+	url = https://github.com/villinoid/00_gfx.git
+	branch = main
