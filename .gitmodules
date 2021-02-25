@@ -102,3 +102,7 @@
 	path = zhangAle
 	url = https://github.com/Kappachino-Latte/01_line_alex
 	branch = master
+[submodule "leeTri"]
+	path = leeTri
+	url = https://github.com/TristanLee187/01_line.git
+	branch = master
