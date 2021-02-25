@@ -129,3 +129,7 @@
 	path = chenLeo
 	url = https://github.com/LeoChen21/01_line
 	branch = main
+[submodule "osipovDon"]
+	path = osipovDon
+	url = https://github.com/Don-Osipov/lineAlgo
+	branch = main
