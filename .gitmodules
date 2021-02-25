@@ -94,3 +94,7 @@
 	path = zhengYul
 	url = https://github.com/yzheng10/01_Line.git
 	branch = main
+[submodule "liZhi"]
+	path = liZhi
+	url = https://github.com/zlicompgraphics/01_compgraphics.git
+	branch = main
