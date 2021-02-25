@@ -117,3 +117,7 @@
 	path = misquittaKri
 	url = https://github.com/Kristoff1318/Graphics_2.git
 	branch = main
+[submodule "jooEth"]
+	path = jooEth
+	url = https://github.com/ejoo10/line.git
+	branch = main
