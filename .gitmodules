@@ -137,3 +137,7 @@
 	path = wuYil
 	url = https://github.com/YLW-105/01_line.git
 	branch = main
+[submodule "hathawayMay"]
+	path = hathawayMay
+	url = https://github.com/mayhathaway/graphics-01
+	branch = master
